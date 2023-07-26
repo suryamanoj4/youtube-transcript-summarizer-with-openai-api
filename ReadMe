@@ -1,0 +1,3 @@
+This is a streamlit based app to summarize text.
+The text can be given directly or also given by pulling the transcript from the youtube video whose link has to be provided.
+The actual summarization is done by the openai GPT-3.5 model which is provided on te openai website.
